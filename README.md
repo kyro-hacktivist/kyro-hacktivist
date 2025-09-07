@@ -15,6 +15,6 @@ A passionate Cybersecurity and IOT Hacking learner.<br>I’m currently working o
 ---
 [![](https://visitcount.itsvg.in/api?id=kyro-hacktivist&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Kyro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyro-hacktivist)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kyro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyro-hacktivist)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
